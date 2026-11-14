@@ -1,16 +1,57 @@
-## Hi there 👋
+Hi, I'm Krithi Shetty! 👋
 
-<!--
-**krithishetty2006/krithishetty2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 3rd-year B.E. Computer Science student passionate about technology, problem-solving and building meaningful solutions.
+
+I enjoy exploring new technologies, learning through hands-on projects and participating in hackathons.
+
+---
+
+🌱 About Me
+
+- 🎓 Pursuing B.E. in Computer Science Engineering
+- 💡 Interested in Software Development, Artificial Intelligence and Web Technologies
+- 🚀 Exploring real-world problem-solving through projects
+- 🤝 Interested in teamwork, hackathons and collaboration
+- 📚 Always learning and improving my technical skills
+
+---
+
+🛠️ Technologies I'm Exploring
+
+- Programming: Python, Java, C
+- Web Development: HTML, CSS, JavaScript
+- Database: MySQL
+- Tools: Git, GitHub, VS Code, Android Studio
+
+---
+
+🚀 Projects
+
+Currently exploring and developing this project.
+
+More projects coming soon!
+
+---
+
+🎯 My Goals
+
+- Strengthen my programming and problem-solving skills
+- Build practical and innovative software projects
+- Explore AI and emerging technologies
+- Contribute to collaborative projects
+- Grow as a software developer
+
+---
+
+🤝 Let's Connect
+
+- 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/)
+- 💻 GitHub: "Explore my repositories" (https://github.com/krithishetty2006)
+
+---
+
+⭐ Learning every day. Building with purpose. Growing through code.
