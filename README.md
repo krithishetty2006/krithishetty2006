@@ -49,7 +49,7 @@ More projects coming soon!
 
 🤝 Let's Connect
 
-- 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/)
+- 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/in/krithi-shetty-38a639330)
 - 💻 GitHub: "Explore my repositories" (https://github.com/krithishetty2006)
 
 ---
